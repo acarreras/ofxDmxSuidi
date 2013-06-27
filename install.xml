@@ -1,0 +1,17 @@
+<install>
+	<author>Anna Carreras</author>
+	<version>1.0</version>
+	<add>
+		<!-- ofxDmxSuidi -->
+		<src>
+		    <folder name="addons/ofxDmxSuidi/src">
+			    <file>../../../addons/ofxDmxSuidi/src/ofxDmxSuidi.h</file>
+			    <file>../../../addons/ofxDmxSuidi/src/ofxDmxSuidi.cpp</file>
+			    <file>../../../addons/ofxDmxSuidi/src/_DasHard.h</file>
+		    </folder>
+	    </src>
+	    <include>
+		    <path>../../../addons/ofxDmxSuidi/src</path>
+	    </include>
+	</add>
+</install>

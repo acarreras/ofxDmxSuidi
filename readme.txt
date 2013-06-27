@@ -30,5 +30,5 @@ Nicolaudie Siudi 6C driver and documentation http://www.nicolaudie.com/online_ma
 
 More info (images and videos)
 -----------------------------
+http://www.etcinventions.com/portfolioentry/ofxdmxsuidi/
 http://www.annacarreras.com/ofxdmxsuidi/
-http://www.etcinventions.com/ofxdmxsuidi/

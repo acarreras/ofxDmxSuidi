@@ -27,9 +27,8 @@ Nicolaudie usb-dmx interfaces (developer kit) http://www.nicolaudie.com/en/home-
 Nicolaudie Siudi 6C driver and documentation http://www.nicolaudie.com/online_manuals/en/45-232-SUNLITE-gY7.htm
 ** driver http://www.dmxsoft.com/global/ftp/SiudiDriver.exe
 ** code examples http://www.dmxsoft.com/global/ftp/siudi_usb_developerkit.exe
-Nicolaudie Developer Kit copy http://annacarreras.com/ofxdmxsuidi/Developper%20Kit.pdf
 
 More info (images and videos)
 -----------------------------
-http://www.annacarreras.com/ofxdmxsuidi/
-http://www.etcinventions.com/ofxdmxsuidi/
+http://www.annacarreras.com/ofx-dmxsuidi/
+http://www.etcinventions.com/ofx-dmxsuidi/
